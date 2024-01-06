@@ -20,5 +20,4 @@ public class stringfunc {
     return sum;
 
    }
-
 }
