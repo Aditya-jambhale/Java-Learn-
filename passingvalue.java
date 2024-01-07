@@ -15,6 +15,7 @@ public class passingvalue {
         System.out.print("Enter the number to be changed:");
         int num=scanner.nextInt();
         arr[0]=num;
+        scanner.close();
     }
 
 }

@@ -10,5 +10,11 @@ class scanner {
         int b = sc.nextInt();
         int sum = a*b;
         System.out.println(sum);
+        
     }
+
+    public static void close() {
+    }
+
+  
 }

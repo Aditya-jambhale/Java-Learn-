@@ -16,7 +16,7 @@ class number {
       System.out.print("Enter you name:");
       String msg=name.nextLine();
       System.out.println("Hello MR."+msg+"m so happy to see you here kindly have a seat and enjoy!");
-    
+     
 }
 
  }

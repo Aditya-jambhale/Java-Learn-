@@ -7,6 +7,7 @@ public class num {
         int num1=large.nextInt();
         System.out.print("Enter a num2 :");
         int num2=large.nextInt();
+        
         if (num1>num2) {
             System.out.println(num1+"is greater");
          }
@@ -16,6 +17,6 @@ public class num {
         else if(num1==num2){
           System.out.println("Both are equal");
           
-        }
+        }scanner.close();
 }}
 
