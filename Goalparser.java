@@ -2,7 +2,7 @@ public class Goalparser {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder();
        int i = 0;
-        String  s="G()()()(al)";
+        String  s="(al)G()()()";
         while(i<s.length())
          if (s.charAt(i)=='G') {
         sb.append("G");
